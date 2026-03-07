@@ -1,10 +1,9 @@
 > [!WARNING]
-> Man cannot obtain anything without first sacrificing something. In order to
-> obtain anything, something of equal value is required. That is
-> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
-> the true way of the world.
+> most of the good programmers do programming not because they expect
+> to get paid or get adulation by the public, but because it is fun to
+> program. 
 >
-> ― ***Alphonse Elric***
+> ― ***Linus Torvalds***
 
 ---
 
