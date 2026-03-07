@@ -6,13 +6,4 @@
 > ― ***Linus Torvalds***
 
 ---
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JustLivvu&show_icons=true&theme=github_dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustLivvu&layout=compact&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JustLivvu&show_icons=true&theme=github_dark)
