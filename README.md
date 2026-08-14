@@ -3,7 +3,7 @@
 > Do not now seek the answers, which cannot be given you because you would not be able to live them.”
 > ― ***Rainer Maria Rilke***
 ---
-Full-Stack Developer / Cybersecurity enthusiast
+Full-Stack Developer / Cybersecurity enthusiast<br>
 Go • Java • JS/TS • Linux • Web Security
 Building things, breaking things, learning how they work.
 
