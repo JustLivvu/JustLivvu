@@ -6,5 +6,6 @@
 Full-Stack Developer / Cybersecurity enthusiast
 Go • Java • JS/TS • Linux • Web Security
 Building things, breaking things, learning how they work.
+
 ---
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustLivvu&theme=tokyonight)  
