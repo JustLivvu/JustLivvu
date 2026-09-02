@@ -4,7 +4,7 @@
 > ― ***Rainer Maria Rilke***
 ---
 Full-Stack Developer / Cybersecurity enthusiast<br>
-Go • Java • JS/TS • Linux • Web Security
+Go • Java • JS/TS • Linux/BSD • Web Security
 Building things, breaking things, learning how they work.
 
 ---
