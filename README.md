@@ -8,3 +8,4 @@ Go • Java • JS/TS • Linux/BSD • Web Security
 Building things, breaking things, learning how they work.
 ---
 <img src="https://github-stats-extended.vercel.app/api?username=justLivvu&theme=dark_github"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=justLivvu&langs_count=4&theme=dark_github"/>
