@@ -7,4 +7,4 @@ Full-Stack Developer / Cybersecurity enthusiast<br>
 Go • Java • JS/TS • Linux/BSD • Web Security
 Building things, breaking things, learning how they work.
 ---
-<img src="https://github-stats-extended.vercel.app/api?username=justLivvu&theme=onedark"/>
+<img src="https://github-stats-extended.vercel.app/api?username=justLivvu&theme=dark_github"/>
